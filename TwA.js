@@ -13,9 +13,9 @@
 • Icone de Transmissão
 • Paleta de Cor nos Status
 • Chat Direto
-• Reiniciar Mod
+• Reiniciar whatsapp 
 • Modo DND
-• Clean Cache (10- e 11+)
+• Clean Cache 11+ / 10-
 • Clean Database
 • Backup & Restore
 • Separar Grupo de Chats
@@ -23,6 +23,8 @@
 • Confirmar Envio de Stickers
 • Xml para botões
 • Source Yo
+• anti crash Sql {database}
+• anti crash {wa_type}
  
  > Erros Corrigidos.",
  "download":"https://youtube.com/c/Trickkk"
